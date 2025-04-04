@@ -2,6 +2,7 @@ Updated: 04.2025
 Script created by Salvador Camacho
 
 This is a JMeter script, it can be used as is for Professional Performance Engineering (LRP)
+
 For using it with Enterprise Performance Engineering (LRE) or Core Performance Engineering (LRC), zip the folder AOS-JMeter-S01 Browse Abandon
 
 This script does the same steps and logic as the HTTP/HTML script AOS-Web-S01 Browse Abandon
