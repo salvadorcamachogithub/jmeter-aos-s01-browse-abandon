@@ -5,7 +5,7 @@ This is a JMeter script, it can be used as is for Professional Performance Engin
 
 For using it with Enterprise Performance Engineering (LRE) or Core Performance Engineering (LRC), zip the folder AOS-JMeter-S01 Browse Abandon
 
-This script does the same steps and logic as the HTTP/HTML script AOS-Web-S01 Browse Abandon
+This script does the same steps and logic as the Web - HTTP/HTML script AOS-Web-S01 Browse Abandon
 
 This script was created with best practices, so it is more resilient, such as:
 * Transaction naming
@@ -15,7 +15,7 @@ This script was created with best practices, so it is more resilient, such as:
 * Think times at the end of each transaction to better simulate user behavior
 * Main URL parametrized, Public AOS by default
 
-This script randomly selects a product from the category and then goes to it in transaction number 3 and adds it to the cart to then abandon the cart
+This script randomly selects a product from the category and then goes to it in transaction number 3 and adds it to the cart to then abandon the cart  
 The Add To Cart step is "simulated" (it hits a random AOS product image) as there is no http traffic in AOS when adding to the cart
 
 Think times were set random from 7.5 seconds to 15 seconds
