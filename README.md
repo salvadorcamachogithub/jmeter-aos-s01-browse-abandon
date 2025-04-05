@@ -1,4 +1,4 @@
-Updated: 04.2025
+Updated: 04.2025  
 Script created by Salvador Camacho
 
 This is a JMeter script, it can be used as is for Professional Performance Engineering (LRP)
@@ -20,9 +20,9 @@ The Add To Cart step is "simulated" (it hits a random AOS product image) as ther
 
 Think times were set random from 7.5 seconds to 15 seconds
 
-This script has 5 transactions
-AOS-JMeter-S01-01 Access AOS URL
-AOS-JMeter-S01-02 Go To Speakers
-AOS-JMeter-S01-03 Random Product
-AOS-JMeter-S01-04 Add To Cart
+This script has 5 transactions:  
+AOS-JMeter-S01-01 Access AOS URL  
+AOS-JMeter-S01-02 Go To Speakers  
+AOS-JMeter-S01-03 Random Product  
+AOS-JMeter-S01-04 Add To Cart  
 AOS-JMeter-S01-05 Checkout
